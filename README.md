@@ -79,8 +79,11 @@ Authentication & role-based access
 
 Real-time API data integration
 
-👩‍💻 Author
 
+🌐 Live Demo
+🔗 https://your-live-link-here.com
+
+👩‍💻 Author
 Sharanya Reddy
 B.Tech – Data Science
 GitHub: https://github.com/SharanyaReddy27
