@@ -84,5 +84,7 @@ Real-time API data integration
 
 👩‍💻 Author
 Sharanya Reddy
+Collabrator
+N.Saranya Reddy
 B.Tech – Data Science
 GitHub: https://github.com/SharanyaReddy27
